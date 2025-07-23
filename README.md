@@ -1,4 +1,4 @@
-# pawan
+
 <h1 align="center">Hi, I'm Pawan Ranakoti👋</h1>
 <p align="center">
 💻 Pursuing B.Tech in CSE(AI/ML) <br>
