@@ -1,8 +1,8 @@
 # 🛡️ AI-Powered Semantic Anomaly Detector
 
 **Submission for:** [Code with Gemini Hackathon](https://code-with-gemini.devpost.com/)  
-**Developed by:** [Your Name]  
-**Tech Stack:** Python, Google Gemini 1.5 Flash, Google GenAI SDK
+**Developed by:** Pawan Ranakoti  
+**Tech Stack:** Python, Google Gemini 2.5 Flash, Google GenAI SDK
 
 ## 🚀 Overview
 Standard data validators only check for data types (e.g., is "Age" an integer?). This tool goes deeper by using **LLM-based Semantic Reasoning** to find logical contradictions that are technically valid but practically impossible.
@@ -15,14 +15,14 @@ Standard data validators only check for data types (e.g., is "Age" an integer?).
 
 ## 🛠️ Setup Instructions
 1. **API Key:** Generate a key from [Google AI Studio](https://aistudio.google.com/).
-2. **Environment:** If using Kaggle, add the key as a Secret named `GEMINI_API_KEY`.
+2. **Environment:**  `GEMINI_API_KEY`.
 3. **Installation:**
    ```bash
    pip install -U google-genai
    ---
 
-### **2. The Final Python Code (Copy & Paste into Kaggle)**
-Isme saari retry logic aur model updates pehle se hi added hain.
+### **2. The Final Python Code **
+
 
 ```python
 # 1. Installation
